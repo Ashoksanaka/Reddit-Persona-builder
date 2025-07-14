@@ -33,7 +33,7 @@ This project was built as part of an assignment for the **AI/LLM Engineer Intern
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/reddit-persona-builder.git
+git clone https://github.com/Ashoksanaka/reddit-persona-builder.git
 cd reddit-persona-builder
 ```
 
@@ -61,7 +61,7 @@ REDDIT_USER_AGENT=RedditPersonaBuilder/0.1 by your_reddit_username
 REDDIT_USERNAME=your_reddit_username
 REDDIT_PASSWORD=your_reddit_password
 
-HF_TOKEN=your_huggingface_api_token
+HF_API_KEY=your_huggingface_api_token
 ```
 
 > 🔐 Your Reddit credentials are needed for authenticated scraping using the Reddit API.  
